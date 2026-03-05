@@ -1,0 +1,9 @@
+github
+
+git pull origin master : 깃허브에서 (분기)공유파일 받기 
+
+git add .\GitTest\test.html <- 폴더 내 저장 경로 : 내 컴퓨터 로컬 저장소에 임시 저장 
+
+git commit -m "수정" : 허브 내 공유내용 상태 확인
+
+git push origin master : 공유파일  확정 저장
